@@ -95,7 +95,7 @@ cat <<EOF > config.json
             "algo": "RandomX",
             "coin": "XMR",
             "url": "rx.unmineable.com:3333",
-            "user": "XMR:41idX4NpdTQ9iABBDVEzRnMU5mCGifFxy3qRrkRM4tUrj2CbifMeJHm6GBRcnVvA6Sbp28eosaCY4Ac2h2g5qqwPAVC29bz.node2monero#ihdm-5s89",
+            "user": "XMR:<WALLETNAME - REPLACE IT>.<NODE NAME - REPLACE IT>",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
